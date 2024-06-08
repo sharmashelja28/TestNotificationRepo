@@ -5,6 +5,7 @@ const Branch2 = () => {
   return (
     <View>
       <Text>Branch2</Text>
+      <Text>Branch2 Line 1 change B2 - C2</Text>
     </View>
   )
 }
